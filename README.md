@@ -1,5 +1,5 @@
-
+-**Daniel Arenas Ejercicio Cadena de Responsabilidad**
 ![chain of responsibility](imagenes/chainofresponsibility.png)
 
-- **Command:** Encapsula una petición en un objeto, permitiendo así parametrizar a los clientes con distintas peticiones, encolar o llevar un registro de las peticiones y poder deshacer la operaciones.
+- **Ejerciio:** Modificar el repositorio con los ejemplos de patrones de tal modo que su ejecucion funcionara con el patron "Cadena de responsabilidad" (Chain of responsabilitiy).
 
